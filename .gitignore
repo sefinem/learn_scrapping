@@ -1,0 +1,10 @@
+# my own note as it may contains some private data
+/main/01_note
+
+# too big to be uploaded
+/lib/
+/bin/
+
+# i think it's not necessary to upload this file
+# as when we try to initiate the virtual environment it will be created automatically
+pyvenv.cfg
